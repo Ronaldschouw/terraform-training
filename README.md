@@ -1,2 +1,0 @@
-# terraform-training
-# terraform-training
